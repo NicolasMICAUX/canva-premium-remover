@@ -13,3 +13,9 @@ For the moment, the extension works like this:
 - Get the closest parent element of this `<path>` that is not a SVG/SPAN
 
 This heuristic does not work on all Canva.com element, so maybe you could improve it. Make a PR :)
+
+## Licence
+This code is licenced under MIT.
+
+## Other extension
+[This extension](https://chromewebstore.google.com/detail/canva-premium-element-rem/nelaapcmnppfpielmfmlhdlgjekaodfl) is supposed to do the same thing, but it doesn't work for me, and it's not open source.
