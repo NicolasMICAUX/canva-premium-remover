@@ -1,4 +1,4 @@
-**Canva Premium Remover** is an Open Source Chrome extension that removes all premium elements (buttons, illustrations, features, ...) from Canva.com UI.
+**[Canva Premium Remover](https://chromewebstore.google.com/detail/canva-premium-remover/gbkkaooihdejfchjkgjdbkgpkemehmpc)** is an Open Source Chrome extension that removes all premium elements (buttons, illustrations, features, ...) from Canva.com UI.
 This will greatly improve your experience as a free Canva user!
 
 Good extension for Graphic Designers, Social Media Managers, Content Creators, Marketing Professionals, Teachers, Business Owners, Bloggers and Influencers, Freelancers, ...
